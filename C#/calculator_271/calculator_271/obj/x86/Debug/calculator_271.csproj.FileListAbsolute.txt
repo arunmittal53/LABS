@@ -1,0 +1,7 @@
+c:\users\atul\documents\visual studio 2010\Projects\calculator_271\calculator_271\obj\x86\Debug\calculator_271.Form1.resources
+c:\users\atul\documents\visual studio 2010\Projects\calculator_271\calculator_271\obj\x86\Debug\calculator_271.Properties.Resources.resources
+c:\users\atul\documents\visual studio 2010\Projects\calculator_271\calculator_271\obj\x86\Debug\calculator_271.csproj.GenerateResource.Cache
+c:\users\atul\documents\visual studio 2010\Projects\calculator_271\calculator_271\bin\Debug\calculator_271.exe
+c:\users\atul\documents\visual studio 2010\Projects\calculator_271\calculator_271\bin\Debug\calculator_271.pdb
+c:\users\atul\documents\visual studio 2010\Projects\calculator_271\calculator_271\obj\x86\Debug\calculator_271.exe
+c:\users\atul\documents\visual studio 2010\Projects\calculator_271\calculator_271\obj\x86\Debug\calculator_271.pdb
