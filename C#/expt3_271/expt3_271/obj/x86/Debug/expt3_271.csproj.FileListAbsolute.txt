@@ -1,0 +1,8 @@
+c:\users\mittal\documents\visual studio 2010\Projects\expt3_271\expt3_271\bin\Debug\expt3_271.exe
+c:\users\mittal\documents\visual studio 2010\Projects\expt3_271\expt3_271\bin\Debug\expt3_271.pdb
+c:\users\mittal\documents\visual studio 2010\Projects\expt3_271\expt3_271\obj\x86\Debug\expt3_271.Form1.resources
+c:\users\mittal\documents\visual studio 2010\Projects\expt3_271\expt3_271\obj\x86\Debug\expt3_271.Properties.Resources.resources
+c:\users\mittal\documents\visual studio 2010\Projects\expt3_271\expt3_271\obj\x86\Debug\expt3_271.csproj.GenerateResource.Cache
+c:\users\mittal\documents\visual studio 2010\Projects\expt3_271\expt3_271\obj\x86\Debug\expt3_271.exe
+c:\users\mittal\documents\visual studio 2010\Projects\expt3_271\expt3_271\obj\x86\Debug\expt3_271.pdb
+c:\users\mittal\documents\visual studio 2010\Projects\expt3_271\expt3_271\obj\x86\Debug\expt3_271.Form2.resources
