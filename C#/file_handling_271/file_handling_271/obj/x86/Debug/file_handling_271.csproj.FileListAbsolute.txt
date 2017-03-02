@@ -1,0 +1,7 @@
+c:\users\mittal\documents\visual studio 2010\Projects\file_handling_271\file_handling_271\obj\x86\Debug\file_handling_271.Form1.resources
+c:\users\mittal\documents\visual studio 2010\Projects\file_handling_271\file_handling_271\obj\x86\Debug\file_handling_271.Properties.Resources.resources
+c:\users\mittal\documents\visual studio 2010\Projects\file_handling_271\file_handling_271\obj\x86\Debug\file_handling_271.csproj.GenerateResource.Cache
+c:\users\mittal\documents\visual studio 2010\Projects\file_handling_271\file_handling_271\bin\Debug\file_handling_271.exe
+c:\users\mittal\documents\visual studio 2010\Projects\file_handling_271\file_handling_271\bin\Debug\file_handling_271.pdb
+c:\users\mittal\documents\visual studio 2010\Projects\file_handling_271\file_handling_271\obj\x86\Debug\file_handling_271.exe
+c:\users\mittal\documents\visual studio 2010\Projects\file_handling_271\file_handling_271\obj\x86\Debug\file_handling_271.pdb
